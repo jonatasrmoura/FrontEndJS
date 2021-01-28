@@ -1,2 +1,2 @@
 # FrontEndJS
- application focused on pagination and front-end with JavaScript
+ application focused on pagination and front-end with JavaScript.
